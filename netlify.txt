@@ -4,5 +4,5 @@ publish = "your-app-folder-name" # Thay "your-app-folder-name" bằng tên thư 
 
 [build.environment]
 # Đặt các biến môi trường cần thiết ở đây nếu cần.
-
-
+# Ví dụ:
+ = "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"
