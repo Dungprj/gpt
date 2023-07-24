@@ -5,7 +5,7 @@ st.title("GPT Dũng pro vip")
 #cai dat model davanci 
 model = "text-davinci-003"
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 def get_response_from_chatgpt(user_question):
