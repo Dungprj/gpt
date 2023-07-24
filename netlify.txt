@@ -1,0 +1,8 @@
+[build]
+command = "streamlit run app.py"
+publish = "your-app-folder-name" # Thay "your-app-folder-name" bằng tên thư mục chứa mã của bạn
+
+[build.environment]
+# Đặt các biến môi trường cần thiết ở đây nếu cần.
+
+
