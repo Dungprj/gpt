@@ -1,11 +1,11 @@
 import streamlit as st
 import openai
 
-st.title("hello world")
+st.title("GPT Dũng pro vip")
 #cai dat model davanci 
 model = "text-davinci-003"
-with open("api.txt","r") as f:
-	openai.api_key = f.readline()
+
+openai.api_key = "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"
 
 
 def get_response_from_chatgpt(user_question):
